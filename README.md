@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I'm looking for my first job.
+- 🌱 At the finish line of Hexlet python-developer course.
+- 📫 sergeiroitberg@yandex.ru
 <!--
 **sergey-royt/sergey-royt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
