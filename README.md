@@ -2,8 +2,8 @@
 
 - :snake: I'm Python Backend Developer
 - :white_check_mark: Have experience with Django and Flask
-- 🔭 I'm looking for my first job.
-- 🌱 At the finish line of [Hexlet](https://hexlet.io) python-developer course. [My profile](https://ru.hexlet.io/u/user-86f3ee6265bd9e35) there.
+- 🔭 I'm looking for my first job
+- 🌱 At the finish line of [Hexlet](https://hexlet.io) python-developer course. [My profile](https://ru.hexlet.io/u/user-86f3ee6265bd9e35) there
 - 📫 sergeiroitberg@yandex.ru
 <!--
 **sergey-royt/sergey-royt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
