@@ -8,8 +8,7 @@ I'm at the finish line of python-developer course on [Hexlet](https://hexlet.io)
 
 *   🌍  I'm based in Moscow
 *   🖥️  See my portfolio at [Hexlet](http://ru.hexlet.io/u/user-86f3ee6265bd9e35)
-*   ✉️  You can contact me at [sergeiroitberg@yandex.ru](mailto:sergeiroitberg@yandex.ru)
-*   ☎️  Or via [telegram](https://t.me/p11010001)
+*   ✉️  You can contact me at [sergeiroitberg@yandex.ru](mailto:sergeiroitberg@yandex.ru) or via [telegram](https://t.me/p11010001)
 
 ### Skills
 
