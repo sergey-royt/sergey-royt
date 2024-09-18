@@ -4,7 +4,7 @@ Hi 👋 My name is Sergey Roytberg
 Python Backend Developer
 ------------------------
 
-I'm at the finish line of python-developer course on [Hexlet](https://hexlet.io). Looking for my first job.
+I'm graduated from python-developer course on [Hexlet](https://hexlet.io). Looking for my first job.
 
 *   🌍  I'm based in Moscow
 *   🖥️  See my portfolio at [Hexlet](http://ru.hexlet.io/u/user-86f3ee6265bd9e35)
